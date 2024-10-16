@@ -28,3 +28,8 @@ I’m looking for help with ...
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=3AAFE1)](https://t.me/blue_anemia)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=126BC5)](https://www.linkedin.com/in/tatiana-rumyantseva)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=0859A0)](https://www.facebook.com/tatiana.rumyantceva?mibextid=ZbWKwL)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-anemia&hide_progress=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-anemia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
