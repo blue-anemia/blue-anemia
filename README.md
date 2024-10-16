@@ -1,6 +1,6 @@
 [![Header](https://github.com/blue-anemia/blue-anemia/blob/main/assets/header.png)](https://t.me/blue_anemia)
 
-About me
+## I'm QA manual engineer and beginner QA Automation (Python)
 
 Languages and Tools
 
