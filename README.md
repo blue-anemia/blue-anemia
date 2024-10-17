@@ -1,6 +1,9 @@
 ![Header](https://github.com/blue-anemia/blue-anemia/blob/main/assets/header.png)
 
-## I'm QA manual engineer and beginner QA Automation (Python)
+<div id="greetings" align="center"> 
+<h1> Hi there! My name is Tatiana</h1>
+<h2> I'm QA manual engineer and beginner QA Automation (Python)</h2>
+</div>
 
 ### Languages and Tools
 
@@ -28,7 +31,6 @@ I’m looking for help with ...
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=3AAFE1)](https://t.me/blue_anemia)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=126BC5)](https://www.linkedin.com/in/tatiana-rumyantseva)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=0859A0)](https://www.facebook.com/tatiana.rumyantceva?mibextid=ZbWKwL)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-anemia&hide_progress=true)
 
