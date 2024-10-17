@@ -27,10 +27,12 @@ I’m currently learning ...
 I’m looking for help with ...
 
 ### How to reach me
+<div id="social" align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=3AAFE1)](https://t.me/blue_anemia)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=126BC5)](https://www.linkedin.com/in/tatiana-rumyantseva)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=0859A0)](https://www.facebook.com/tatiana.rumyantceva?mibextid=ZbWKwL)
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-anemia&hide_progress=true)
 
