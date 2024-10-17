@@ -1,7 +1,7 @@
 ![Header](https://github.com/blue-anemia/blue-anemia/blob/main/assets/header.png)
 
 <div id="greetings" align="center"> 
-<h1> Hi there! My name is Tatiana</h1>
+<h1> Hi there!👋 My name is Tatiana</h1>
 <h2> I'm QA manual engineer and beginner QA Automation (Python)</h2>
 </div>
 
@@ -22,9 +22,9 @@
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=2D53E5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F4E224)
 
-I’m currently learning ...
-
-I’m looking for help with ...
+### About me
+- 🧠 I’m currently learning **Python and JS**
+- 👀 I’m looking for help with ...
 
 ### How to reach me
 <div id="social" align="center">
