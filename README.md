@@ -24,7 +24,7 @@
 
 ### About me
 - 🧠 I’m currently learning **Python and JS**
-- 💟 My QA manual engineer portfolio - 
+- 💟 My QA manual engineer portfolio - [Portfolio](https://github.com/blue-anemia/QA-manual-portfolio.git)
 - 👀 I’m looking for help with ...
 
 ### How to reach me
