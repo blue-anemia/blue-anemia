@@ -2,7 +2,7 @@
 
 <div id="greetings" align="center"> 
 <h1> Hi there!👋 My name is Tatiana</h1>
-<h2> I'm QA manual engineer and beginner QA Automation (Python)</h2>
+<h2> I'm QA manual engineer and beginner QA Automation (TypeScript)</h2>
 </div>
 
 ### Languages and Tools
